@@ -19,7 +19,7 @@ You will need the following tools installed:
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/your-username/your-project-name.git](https://github.com/NirmalVG/MS-nextjs-machine-test)
+    git clone https://github.com/NirmalVG/MS-nextjs-machine-test
     ```
 
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ You will need the following tools installed:
     yarn dev
     ```
 
-5. Open [[[http://localhost:3000](https://ms-nextjs-machine-test-delp375ev-nirmalvgs-projects.vercel.app/)]](https://ms-nextjs-machine-test-delp375ev-nirmalvgs-projects.vercel.app/) to view the project in your browser.
+5. Open https://ms-nextjs-machine-test-delp375ev-nirmalvgs-projects.vercel.app/ to view the project in your browser.
 
 
 
