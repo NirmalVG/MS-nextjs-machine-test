@@ -18,7 +18,7 @@ const Highlight = () => {
                     lorem, et varius ipsum dictum.
                 </p>
             </div>
-            <div className="h-[500px] w-full md:w-[400px] bg-white rounded-xl mt-8 md:mt-0 p-5">
+            <div className="h-[500px] w-full md:w-[400px] bg-white rounded-xl mb-12 mt-8 md:mt-0 p-5">
                 <h2 className="text-[24px] md:text-[29px] font-medium">
                     Lorem Ipsum?
                 </h2>
