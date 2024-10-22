@@ -60,7 +60,7 @@ const Footer = () => {
                 {/* Contact & Info Sections */}
                 <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 lg:gap-0 border-t-2 border-[#FFFFFF1C] py-6 lg:py-10 px-6 lg:px-12">
                     {/* Left Box */}
-                    <div className="border-2 border-[#FFFFFF1C] p-6">
+                    <div className="border-2 border-[#FFFFFF1C]  p-6">
                         <div className="bg-[#083040] p-4 mb-4">
                             <p>Lorem ipsum dolor sit amet</p>
                         </div>
@@ -68,9 +68,6 @@ const Footer = () => {
                             <p>Lorem ipsum dolor sit amet</p>
                         </div>
                         <div className="bg-[#083040] p-4 mb-4">
-                            <p>Lorem ipsum dolor sit amet</p>
-                        </div>
-                        <div className="bg-[#083040] p-4">
                             <p>Lorem ipsum dolor sit amet</p>
                         </div>
                     </div>
