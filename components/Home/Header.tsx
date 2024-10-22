@@ -13,7 +13,7 @@ const Header = () => {
                     className="object-cover"
                 />
             </div>
-            <div className="flex items-center justify-center md:col-span-1 mt-4 md:mt-0">
+            <div className="flex md:items-center md:justify-center md:col-span-1 mt-4 md:mt-0">
                 <ul className="flex flex-row space-x-4">
                     <li className="text-[16px] font-medium text-white">
                         About Us
