@@ -37,7 +37,7 @@ const Footer = () => {
                         <h2 className="text-lg font-semibold">Quick Links</h2>
                     </div>
                     <div className="flex-1">
-                        <ul className="flex flex-wrap lg:flex-nowrap lg:space-x-10 space-y-4 lg:space-y-0 text-center lg:text-left">
+                        <ul className="flex flex-wrap justify-center lg:justify-start lg:flex-nowrap lg:space-x-10 space-y-4 lg:space-y-0 text-center lg:text-left">
                             <li>
                                 <Link href="#">Home</Link>
                             </li>
@@ -58,7 +58,7 @@ const Footer = () => {
                 </div>
 
                 {/* Contact & Info Sections */}
-                <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 lg:gap-0 border-t-2 border-[#FFFFFF1C] py-6 lg:py-10 px-6 lg:px-12">
+                <div className="grid grid-cols-1 lg:grid-cols-3  lg:gap-0 border-t-2 border-[#FFFFFF1C] py-6 lg:py-10 px-6 lg:px-12">
                     {/* Left Box */}
                     <div className="border-2 border-[#FFFFFF1C]  p-6">
                         <div className="bg-[#083040] p-4 mb-4">
