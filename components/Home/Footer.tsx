@@ -130,7 +130,7 @@ const Footer = () => {
                 </div>
 
                 {/* Copyright */}
-                <div className=" text-sm mt-6 ml-12 lg:mt-12 py-4 lg:py-6 border-t border-[#FFFFFF1C]">
+                <div className=" text-sm mt-6 pl-12 lg:mt-12 py-4 lg:py-6 border-t border-[#FFFFFF1C]">
                     <p>&copy;2024 Demo, All rights reserved.</p>
                 </div>
             </section>
