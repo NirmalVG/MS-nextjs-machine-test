@@ -20,7 +20,7 @@ const Insights = () => {
                 </div>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-                <div className="bg-insight-customer bg-cover bg-center h-[300px] sm:h-[400px] md:h-[584px] rounded-2xl pt-[200px] pl-4 sm:pt-[350px] sm:pl-6 text-white">
+                <div className="bg-insight-customer bg-cover bg-center h-[300px] sm:h-[400px] md:h-[584px] rounded-2xl pt-[180px] pl-4 sm:pt-[350px] sm:pl-6 text-white">
                     <p className="text-[14px] sm:text-[16px] font-normal">
                         21 March 2023
                     </p>
@@ -32,7 +32,7 @@ const Insights = () => {
                         Read More
                     </p>
                 </div>
-                <div className="bg-insight-client bg-cover bg-center h-[300px] sm:h-[400px] md:h-[584px] rounded-2xl pt-[200px] pl-4 sm:pt-[350px] sm:pl-6 text-white">
+                <div className="bg-insight-client bg-cover bg-center h-[300px] sm:h-[400px] md:h-[584px] rounded-2xl pt-[180px] pl-4 sm:pt-[350px] sm:pl-6 text-white">
                     <p className="text-[14px] sm:text-[16px] font-normal">
                         21 March 2023
                     </p>
@@ -44,7 +44,7 @@ const Insights = () => {
                         Read More
                     </p>
                 </div>
-                <div className="bg-insight-work bg-cover bg-center h-[300px] sm:h-[400px] md:h-[584px] rounded-2xl pt-[200px] pl-4 sm:pt-[350px] sm:pl-6 text-white">
+                <div className="bg-insight-work bg-cover bg-center h-[300px] sm:h-[400px] md:h-[584px] rounded-2xl pt-[180px] pl-4 sm:pt-[350px] sm:pl-6 text-white">
                     <p className="text-[14px] sm:text-[16px] font-normal">
                         21 March 2023
                     </p>
