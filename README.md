@@ -44,7 +44,7 @@ You will need the following tools installed:
     yarn dev
     ```
 
-5. Open https://ms-nextjs-machine-test-delp375ev-nirmalvgs-projects.vercel.app/ to view the project in your browser.
+5. Open https://ms-nextjs-machine-test.vercel.app/ to view the project in your browser.
 
 ### Technologies Used
 
