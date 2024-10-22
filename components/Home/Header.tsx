@@ -14,7 +14,7 @@ const Header = () => {
                 />
             </div>
             <div className="flex md:items-center md:justify-center md:col-span-1 mt-4 md:mt-0">
-                <ul className="flex flex-row space-x-4">
+                <ul className="flex flex-col md:flex-row md:space-x-4 space-y-4 md:space-y-0">
                     <li className="text-[16px] font-medium text-white">
                         About Us
                     </li>
@@ -36,7 +36,7 @@ const Header = () => {
                 </ul>
             </div>
             <div className="flex items-center md:justify-end justify-start md:col-span-1 mt-6 md:mt-0">
-                <button className=" border bg-white text-black px-4 py-2 w-[200px] rounded">
+                <button className="border bg-white text-black px-4 py-2 w-[200px] rounded">
                     <p className="text-[16px] font-semibold">Contact Us</p>
                 </button>
             </div>
