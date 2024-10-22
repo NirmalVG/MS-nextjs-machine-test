@@ -34,10 +34,12 @@ const Footer = () => {
                 {/* Quick Links */}
                 <div className="flex flex-col lg:flex-row p-6 lg:p-12 space-y-6 lg:space-y-0 lg:space-x-12">
                     <div className="flex-1">
-                        <h2 className="text-lg font-semibold">Quick Links</h2>
+                        <h2 className="text-lg font-semibold text-left">
+                            Quick Links
+                        </h2>
                     </div>
                     <div className="flex-1">
-                        <ul className="flex flex-wrap lg:flex-nowrap lg:space-x-10 space-y-4 lg:space-y-0 text-center lg:text-left">
+                        <ul className="flex flex-col lg:flex-row lg:space-x-10 space-y-4 lg:space-y-0 text-left">
                             <li>
                                 <Link href="#">Home</Link>
                             </li>
@@ -70,7 +72,6 @@ const Footer = () => {
                         <div className="bg-[#083040] p-4 mb-4">
                             <p>Lorem ipsum dolor sit amet</p>
                         </div>
-
                     </div>
 
                     {/* Middle Box */}
