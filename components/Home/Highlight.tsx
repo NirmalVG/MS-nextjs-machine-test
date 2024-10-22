@@ -22,7 +22,7 @@ const Highlight = () => {
                 <h2 className="text-[24px] md:text-[29px] font-medium">
                     Lorem Ipsum?
                 </h2>
-                <div className="pt-10 md:pt-60 bg-education-pattern bg-cover bg-center pl-4 md:pl-10">
+                <div className="pt-[350px] md:pt-64 bg-education-pattern bg-cover bg-center pl-4 md:pl-10">
                     <h4 className="text-[20px] md:text-[29px] font-medium">
                         Lorem Ipsum
                     </h4>
