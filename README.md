@@ -1,6 +1,6 @@
 # Project Name
 
-NextJS Machine Test
+MS NextJS Machine Test
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ You will need the following tools installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/NirmalVG/MS-nextjs-machine-test
+    git clone https://github.com/NirmalVG/MS-nextjs-machine-test.git
     ```
 
 2. Navigate to the project directory:
@@ -45,6 +45,11 @@ You will need the following tools installed:
     ```
 
 5. Open https://ms-nextjs-machine-test-delp375ev-nirmalvgs-projects.vercel.app/ to view the project in your browser.
+
+### Technologies Used
+
+1. NextJS
+2. TailwindCSS
 
 
 
